@@ -1,0 +1,66 @@
+F:\Programming Basics\Stungata\Stungata\bin\Debug\netcoreapp3.1\Stungata.exe
+F:\Programming Basics\Stungata\Stungata\bin\Debug\netcoreapp3.1\Stungata.deps.json
+F:\Programming Basics\Stungata\Stungata\bin\Debug\netcoreapp3.1\Stungata.runtimeconfig.json
+F:\Programming Basics\Stungata\Stungata\bin\Debug\netcoreapp3.1\Stungata.runtimeconfig.dev.json
+F:\Programming Basics\Stungata\Stungata\bin\Debug\netcoreapp3.1\Stungata.dll
+F:\Programming Basics\Stungata\Stungata\bin\Debug\netcoreapp3.1\Stungata.pdb
+F:\Programming Basics\Stungata\Stungata\obj\Debug\netcoreapp3.1\Stungata.csproj.AssemblyReference.cache
+F:\Programming Basics\Stungata\Stungata\obj\Debug\netcoreapp3.1\Stungata.Main.resources
+F:\Programming Basics\Stungata\Stungata\obj\Debug\netcoreapp3.1\Stungata.Welcome.resources
+F:\Programming Basics\Stungata\Stungata\obj\Debug\netcoreapp3.1\Stungata.csproj.GenerateResource.cache
+F:\Programming Basics\Stungata\Stungata\obj\Debug\netcoreapp3.1\Stungata.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming Basics\Stungata\Stungata\obj\Debug\netcoreapp3.1\Stungata.AssemblyInfoInputs.cache
+F:\Programming Basics\Stungata\Stungata\obj\Debug\netcoreapp3.1\Stungata.AssemblyInfo.cs
+F:\Programming Basics\Stungata\Stungata\obj\Debug\netcoreapp3.1\Stungata.csproj.CoreCompileInputs.cache
+F:\Programming Basics\Stungata\Stungata\obj\Debug\netcoreapp3.1\Stungata.dll
+F:\Programming Basics\Stungata\Stungata\obj\Debug\netcoreapp3.1\Stungata.pdb
+F:\Programming Basics\Stungata\Stungata\obj\Debug\netcoreapp3.1\Stungata.genruntimeconfig.cache
+F:\Programming Basics\Stungata\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.problemOne.resources
+F:\Programming Basics\Stungata\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.cuckooHashing.resources
+C:\Users\pgea8519\Desktop\diploumna\Stungata\bin\Debug\netcoreapp3.1\Stungata.exe
+C:\Users\pgea8519\Desktop\diploumna\Stungata\bin\Debug\netcoreapp3.1\Stungata.deps.json
+C:\Users\pgea8519\Desktop\diploumna\Stungata\bin\Debug\netcoreapp3.1\Stungata.runtimeconfig.json
+C:\Users\pgea8519\Desktop\diploumna\Stungata\bin\Debug\netcoreapp3.1\Stungata.runtimeconfig.dev.json
+C:\Users\pgea8519\Desktop\diploumna\Stungata\bin\Debug\netcoreapp3.1\Stungata.dll
+C:\Users\pgea8519\Desktop\diploumna\Stungata\bin\Debug\netcoreapp3.1\Stungata.pdb
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.csproj.AssemblyReference.cache
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.cuckooHashing.resources
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.problemOne.resources
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Main.resources
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Welcome.resources
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.csproj.GenerateResource.cache
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.AssemblyInfoInputs.cache
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.AssemblyInfo.cs
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.csproj.CoreCompileInputs.cache
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.dll
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.pdb
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.genruntimeconfig.cache
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.findPairs.resources
+C:\Users\pgea8519\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.recaman.resources
+C:\Users\lubom\Desktop\diploumna\Stungata\bin\Debug\netcoreapp3.1\Stungata.exe
+C:\Users\lubom\Desktop\diploumna\Stungata\bin\Debug\netcoreapp3.1\Stungata.deps.json
+C:\Users\lubom\Desktop\diploumna\Stungata\bin\Debug\netcoreapp3.1\Stungata.runtimeconfig.json
+C:\Users\lubom\Desktop\diploumna\Stungata\bin\Debug\netcoreapp3.1\Stungata.runtimeconfig.dev.json
+C:\Users\lubom\Desktop\diploumna\Stungata\bin\Debug\netcoreapp3.1\Stungata.dll
+C:\Users\lubom\Desktop\diploumna\Stungata\bin\Debug\netcoreapp3.1\Stungata.pdb
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.csproj.AssemblyReference.cache
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.cuckooHashing.resources
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.findPairs.resources
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.problemOne.resources
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.recaman.resources
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Main.resources
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Welcome.resources
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.csproj.GenerateResource.cache
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.AssemblyInfoInputs.cache
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.AssemblyInfo.cs
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.csproj.CoreCompileInputs.cache
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.dll
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.pdb
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.genruntimeconfig.cache
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.equalOrNot.resources
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.largestSubarray.resources
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.subarrayWithSum.resources
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.subsequence.resources
+C:\Users\lubom\Desktop\diploumna\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.divisible.resources

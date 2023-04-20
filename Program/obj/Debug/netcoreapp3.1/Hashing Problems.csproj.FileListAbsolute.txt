@@ -1,0 +1,50 @@
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\bin\Debug\netcoreapp3.1\Hashing Problems.exe
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\bin\Debug\netcoreapp3.1\Hashing Problems.deps.json
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\bin\Debug\netcoreapp3.1\Hashing Problems.runtimeconfig.json
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\bin\Debug\netcoreapp3.1\Hashing Problems.runtimeconfig.dev.json
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\bin\Debug\netcoreapp3.1\Hashing Problems.dll
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\bin\Debug\netcoreapp3.1\Hashing Problems.pdb
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Hashing Problems.csproj.AssemblyReference.cache
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.cuckooHashing.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.divisible.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.equalOrNot.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.findPairs.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.largestSubarray.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.problemOne.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.recaman.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.subarrayWithSum.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Stungata.Forms.subsequence.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Stungata.Main.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Hashing Problems.csproj.GenerateResource.cache
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Hashing Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Hashing Problems.AssemblyInfoInputs.cache
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Hashing Problems.AssemblyInfo.cs
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Hashing Problems.csproj.CoreCompileInputs.cache
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Hashing Problems.dll
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Hashing Problems.pdb
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Stungata\obj\Debug\netcoreapp3.1\Hashing Problems.genruntimeconfig.cache
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\bin\Debug\netcoreapp3.1\Hashing Problems.exe
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\bin\Debug\netcoreapp3.1\Hashing Problems.deps.json
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\bin\Debug\netcoreapp3.1\Hashing Problems.runtimeconfig.json
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\bin\Debug\netcoreapp3.1\Hashing Problems.runtimeconfig.dev.json
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\bin\Debug\netcoreapp3.1\Hashing Problems.dll
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\bin\Debug\netcoreapp3.1\Hashing Problems.pdb
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Hashing Problems.csproj.AssemblyReference.cache
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Stungata.Forms.cuckooHashing.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Stungata.Forms.divisible.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Stungata.Forms.equalOrNot.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Stungata.Forms.findPairs.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Stungata.Forms.largestSubarray.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Stungata.Forms.problemOne.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Stungata.Forms.recaman.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Stungata.Forms.subarrayWithSum.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Stungata.Forms.subsequence.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Stungata.Main.resources
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Hashing Problems.csproj.GenerateResource.cache
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Hashing Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Hashing Problems.AssemblyInfoInputs.cache
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Hashing Problems.AssemblyInfo.cs
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Hashing Problems.csproj.CoreCompileInputs.cache
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Hashing Problems.dll
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Hashing Problems.pdb
+C:\Users\lubom\Desktop\Program Stoyan Hash tables and dictionaries\Program\obj\Debug\netcoreapp3.1\Hashing Problems.genruntimeconfig.cache
